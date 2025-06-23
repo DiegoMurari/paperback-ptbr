@@ -1,26 +1,20 @@
 {
+  "name": "PT-BR Extensions",
+  "version": 1,
   "extensions": [
     {
-      "name": "Remangas",
+      "id": "remangas",
+      "name": "ReMangas",
       "version": "1.0.0",
-      "path": "remangas/index.js",
-      "language": [
-        "pt-BR"
-      ],
-      "author": "DiegoMurari",
-      "website": "https://remangas.net",
-      "id": "remangas"
+      "url": "https://raw.githubusercontent.com/TheNetsky/extensions-mmrcms/main/src/remangas/source.js",
+      "lang": "pt-BR"
     },
     {
-      "name": "Union Mang\u00e1s",
+      "id": "unionmangas",
+      "name": "Union Mangás",
       "version": "1.0.0",
-      "path": "unionmangas/index.js",
-      "language": [
-        "pt-BR"
-      ],
-      "author": "DiegoMurari",
-      "website": "https://unionmangas.top",
-      "id": "unionmangas"
+      "url": "https://raw.githubusercontent.com/TheNetsky/extensions-mmrcms/main/src/unionmangas/source.js",
+      "lang": "pt-BR"
     }
   ]
 }
