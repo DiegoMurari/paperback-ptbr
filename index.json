@@ -1,0 +1,22 @@
+{
+    "name": "PT-BR Extensions",
+    "version": 1,
+    "extensions": [
+        {
+            "id": "remangas",
+            "name": "ReMangas",
+            "icon": "https://avatars.githubusercontent.com/u/11372785?s=200&v=4",
+            "url": "https://raw.githubusercontent.com/TheNetsky/extensions-mmrcms/main/src/remangas/source.js",
+            "lang": "pt-BR",
+            "nsfw": false
+        },
+        {
+            "id": "unionmangas",
+            "name": "Union Mang\u00e1s",
+            "icon": "https://unionleitor.top/favicon.ico",
+            "url": "https://raw.githubusercontent.com/TheNetsky/extensions-mmrcms/main/src/unionmangas/source.js",
+            "lang": "pt-BR",
+            "nsfw": false
+        }
+    ]
+}
